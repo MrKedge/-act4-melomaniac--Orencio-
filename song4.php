@@ -43,32 +43,35 @@
                         
                         <?php
 
-                        echo "<h2 class='text-primary'>Washing Machine Heart</h2>";
-                        echo "<p class='lead '>Mitski</p>";
+                        echo "<h2 class='text-primary'>I Love You So</h2>";
+                        echo "<p class='lead '>The Walters Lyrics</p>";
                 
-                        echo "<p> Toss your dirty shoes in my washing machine heart </p>";
-                        echo "<p> Baby, bang it up inside</p>";
-                        echo "<p> I'm not wearing my usual lipstick</p>";
-                        echo "<p> I thought maybe we would kiss tonight</p>";                    
-                        echo "<p> Baby will you kiss me already and</p>";
+                        echo "<p> I just need someone in my life to give it structure </p>";
+                        echo "<p> To handle all the selfish ways I'd spend my time without her</p>";
+                        echo "<p> You're everything I want, but I can't deal with all your lovers</p>";
+                        echo "<p> Saying I'm the one, but it's your actions that speak louder</p>";                    
+                        echo "<p> Giving me love when you are down and need another</p>";
                         echo "<p> Toss your dirty shoes in my washing machine heart</p>";
-                        echo "<p> Baby, bang it up inside</p>";
+                        echo "<p> I've got to get away and let you go, I've got to get over</p>";
                         echo "<br/>";
 
-                        echo "<p> Baby, though I've closed my eyes</p>";
-                        echo "<p> I know who you pretend I am</p>";
-                        echo "<p> I know who you pretend I am</p>";
+                        echo "<p> But I love you so</p>";
+                        echo "<p> I love you so</p>";
+                        echo "<p> I love you so</p>";
+                        echo "<p> I love you so</p>";
                         echo "<br/>";
 
-                        echo "<p> But do mi ti</p>";
-                        echo "<p> Why not me?</p>";
-                        echo "<p> Why not me?</p>";
-                        echo "<p> Do mi ti</p>";
-                        echo "<p> Why not me?</p>";
-                        echo "<p> Why not me?</p>";
-                        echo "<p> Do mi ti</p>";
-                        echo "<p> Why not me?</p>";
-                        echo "<p> Why not me?</p>";
+                        echo "<p> I'm gonna pack my things and leave you behind</p>";
+                        echo "<p> This feeling's old and I know that I've made up my mind</p>";
+                        echo "<p> I hope you feel what I felt when you shattered my soul</p>";
+                        echo "<p> 'Cause you were cruel and I'm a fool</p>";
+                        echo "<p> So please let me go</p>";
+                        echo "<br/>";
+                        
+                        echo "<p> But I love you so (please let me go)</p>";
+                        echo "<p> I love you so (please let me go)</p>";
+                        echo "<p> I love you so (please let me go)</p>";
+                        echo "<p> I love you so</p>";
 
 
                 
