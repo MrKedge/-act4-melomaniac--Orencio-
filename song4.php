@@ -40,7 +40,10 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
+                       <image src ="image/image1.jpg" style="display: flex;align-items:center; justify-content: center;height: 400px; width: 400; margin-left: 38%;">
                         
+
+                       
                         <?php
 
                         echo "<h2 class='text-primary'>I Love You So</h2>";
