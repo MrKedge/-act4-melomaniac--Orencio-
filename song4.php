@@ -14,15 +14,15 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top"> Music Geas </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
-                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
-                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song3.php">Song 3</a></li>
+                         <li class="nav-item"><a class="nav-link text-light" href="song4.php">Song 4</a></li>
+                          <li class="nav-item"><a class="nav-link text-light" href="song5.php">Song 5</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to Music Geas</h1>
+                <p class="lead">Enjoy browsing Music Lyrics</p>
                 
             </div>
         </header>
@@ -44,7 +44,7 @@
                         <?php
 
                         echo "<h2 class='text-primary'>I Love You So</h2>";
-                        echo "<p class='lead '>The Walters Lyrics</p>";
+                        echo "<p class='lead '>The Walters </p>";
                 
                         echo "<p> I just need someone in my life to give it structure </p>";
                         echo "<p> To handle all the selfish ways I'd spend my time without her</p>";
@@ -67,7 +67,7 @@
                         echo "<p> 'Cause you were cruel and I'm a fool</p>";
                         echo "<p> So please let me go</p>";
                         echo "<br/>";
-                        
+
                         echo "<p> But I love you so (please let me go)</p>";
                         echo "<p> I love you so (please let me go)</p>";
                         echo "<p> I love you so (please let me go)</p>";
