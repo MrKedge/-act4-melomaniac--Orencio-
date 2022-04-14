@@ -9,6 +9,8 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
       
         <link href="css/styles.css" rel="stylesheet" />
+
+
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -32,6 +34,8 @@
             <div class="container px-4 text-center">
                  <h1 class="fw-bolder">Welcome to Music Geas</h1>
                 <p class="lead">Enjoy browsing Music Lyrics</p>
+
+
                 
             </div>
         </header>
@@ -40,7 +44,7 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        
+                      
                         <?php
 
                         echo "<h2 class='text-primary'>Washing Machine Heart</h2>";
